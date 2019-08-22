@@ -1,0 +1,45 @@
+body {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+
+h2 {
+    color: blue
+}
+
+p {
+    color: black;
+    text-align: left;
+    
+}
+
+.voltar {
+
+    text-align:right;
+}
+
+.menu {background-color: red;
+list-style: none;
+text-align: center;
+margin: 30;
+
+}
+
+.menu li {
+
+    display: inline-block
+}
+
+.menu li a {
+
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu li a :hover {
+
+    background-color: aquamarine;
+    color: blue;
+}
